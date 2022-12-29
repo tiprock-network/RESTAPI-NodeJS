@@ -1,0 +1,20 @@
+[
+    {
+        "id":"1",
+        "name":"Toothbrush",
+        "desc":"Sharp, strong bristles",
+        "price":1.3
+    },
+    {
+        "id":"2",
+        "name":"Door Mat",
+        "desc":"Soft Embroider, Soft Mats, 80 cm x 50 cm",
+        "price":40.20
+    },
+    {
+        "id":"3",
+        "name":"4 pack Eggs",
+        "desc":"Farming Choice Eggs",
+        "price":0.45
+    }
+]
