@@ -1,5 +1,5 @@
 const http=require('http')
-const products=require('./data/products')//our data json file (not necessary here)
+//products removed
 const {getProducts,getProduct,createProduct,updateProduct,deleteProduct}=require('./controller/productController')
 const server=http.createServer((req,res)=>{
     if(req.url==='/api/products' && req.method==='GET'){
