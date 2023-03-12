@@ -3,4 +3,4 @@
 
 This is basic and for anyone starting out in API development with Javascript.
 
-$cos(x) - xe{x}=0$
+$cos(x) - xe^{x}=0$
