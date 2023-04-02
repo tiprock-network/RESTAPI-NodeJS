@@ -6,7 +6,7 @@ This is basic and for anyone starting out in API development with Javascript.
 
 To prove the equation:
 
-(1 - \frac{1}{2}\nabla)(1 - \nabla)^{-\frac{1}{2}} = \sqrt{1 + \frac{\sigma^2}{4}}
+$(1 - \frac{1}{2}\nabla)(1 - \nabla)^{-\frac{1}{2}} = \sqrt{1 + \frac{\sigma^2}{4}}
 
 We can start by expanding the expression on the left-hand side:
 
@@ -48,4 +48,4 @@ Now, let's consider the right-hand side of the original equation:
 
 = 1 + \sum_{n=1}^{\infty} \frac{1}{2^n n!}\left(\frac{\sigma^2}{4}\right)^n
 
-= 1 + \sum
+= 1 + \sum$
